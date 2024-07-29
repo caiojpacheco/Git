@@ -1,0 +1,9 @@
+Git
+
+- git init -> Usamos para inicializar um repositório com git
+
+- git status -> Usamos para verificar o status de um repositório git
+
+- git add -> Usamos para adicionar um arquivo no repositório, sempre mantendo-o atualizado 
+
+OBS: git add . serve para adicionar todos os arquivos de uma só vez
