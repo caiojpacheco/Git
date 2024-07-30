@@ -8,6 +8,6 @@ Git
 
 OBS: git add . serve para adicionar todos os arquivos de uma só vez
 
-- git commit nome do arquivo -m "Mensagem" -> Usamos para enviar o repositório ao GitHub com uma Mensagem
+- git commit nome do arquivo -m "Mensagem" -> Usamos para enviar as mudanças ao repositório com uma Mensagem
 
-OBS: git commit nome do arquivo -a -m "Mensagem" usado para enviar todos -a(all) 
+OBS: git -a -m "Mensagem" usado para enviar todos -a(all) 
